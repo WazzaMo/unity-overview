@@ -1,0 +1,8 @@
+# Git Ignore for Unity projects
+
+
+Library/
+Logs/
+obj
+.vs/
+.vsconfig
